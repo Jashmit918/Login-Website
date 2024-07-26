@@ -2,7 +2,7 @@
 - Front-End Login Website
 - Made using *HTML* and *CSS*
 - Contains a beautiful background image.
-- Contains Transparency effect b/w Login Panel & background.
+- Contain Glassmorphism effect.
 - Compatible with all Mobile devices with great User Interface
 
 ## Website Link:
