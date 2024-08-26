@@ -7,5 +7,5 @@
 - Contain Glassmorphism effect.
 - Compatible with all devices with great User Interface
 
-## Website Link:
+## Deployed Link:
 https://jashmit918.github.io/Login-Website/
